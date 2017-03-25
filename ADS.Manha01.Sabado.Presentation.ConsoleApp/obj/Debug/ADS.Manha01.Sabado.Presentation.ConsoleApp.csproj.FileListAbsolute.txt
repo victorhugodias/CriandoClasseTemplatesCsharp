@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\bin\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\bin\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\bin\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\obj\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\obj\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ADS.Manha01.Sabado.Solution\ADS.Manha01.Sabado.Presentation.ConsoleApp\obj\Debug\ADS.Manha01.Sabado.Presentation.ConsoleApp.pdb

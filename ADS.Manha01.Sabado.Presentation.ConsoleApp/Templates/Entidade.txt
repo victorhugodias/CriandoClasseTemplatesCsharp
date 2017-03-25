@@ -1,0 +1,8 @@
+{{ListaDeUsings}} 
+namespace {{NomeNamespaceRaiz}}{{NomeCamada}}{{NomeApp}}
+{
+    public class {{NomeEntidade}}
+    {
+		{{ListaDePropriedades}}
+    }
+}

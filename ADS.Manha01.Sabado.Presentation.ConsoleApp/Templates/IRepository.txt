@@ -1,0 +1,7 @@
+﻿{{ListaDeUsings}} 
+namespace {{NomeNamespaceRaiz}}{{NomeCamada}}{{NomeApp}}
+{
+    public interface I{{NomeEntidade}}Repository : IRepositoryBase<{{NomeEntidade}}>
+    {
+    }
+}
